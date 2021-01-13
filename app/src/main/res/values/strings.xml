@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">좀 그럴 듯한 앱</string>
+    <string name="strBtn1">버튼입니다</string>
+    <string name="strBtn2">글자 나타내기</string>
+    <string name="strBtn3">홈페이지 열기</string>
+    <string name="rdbtn1">오레오</string>
+    <string name="rdbtn2">파이</string>
+
+</resources>
